@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bfc13c7a-b18d-4753-9155-20ab4607bd1b" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bodyTab.js" afterPath="$PROJECT_DIR$/js/bodyTab.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/js/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/leftNav.js" afterPath="$PROJECT_DIR$/js/leftNav.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/json/navs.json" afterPath="$PROJECT_DIR$/json/navs.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -24,21 +20,21 @@
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="145" column="4" lean-forward="false" selection-start-line="145" selection-start-column="7" selection-end-line="146" selection-end-column="20" />
+            <state relative-caret-position="315">
+              <caret line="139" column="24" lean-forward="false" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
               <folding>
                 <element signature="e#951#5076#0" expanded="false" />
-                <element signature="e#7638#8695#0" expanded="false" />
-                <element signature="e#8903#8923#0" expanded="false" />
-                <element signature="e#8990#10112#0" expanded="false" />
-                <element signature="e#10158#10566#0" expanded="false" />
-                <element signature="e#10620#11708#0" expanded="false" />
-                <element signature="e#11759#12137#0" expanded="false" />
+                <element signature="e#7659#8716#0" expanded="false" />
+                <element signature="e#8924#8944#0" expanded="false" />
+                <element signature="e#9011#10133#0" expanded="false" />
+                <element signature="e#10179#10587#0" expanded="false" />
+                <element signature="e#10641#11729#0" expanded="false" />
+                <element signature="e#11780#12158#0" expanded="false" />
                 <element signature="n#!!block;n#donation#0" expanded="false" />
-                <marker date="1516437985430" expanded="true" signature="7874:7980" ph="..." />
-                <marker date="1516437985430" expanded="true" signature="9545:9553" ph="&amp;##x1006;" />
-                <marker date="1516437985430" expanded="true" signature="12378:12426" ph="..." />
-                <marker date="1516437985430" expanded="true" signature="12515:12563" ph="..." />
+                <marker date="1516442872468" expanded="true" signature="7895:8001" ph="..." />
+                <marker date="1516442872468" expanded="true" signature="9566:9574" ph="&amp;##x1006;" />
+                <marker date="1516442872468" expanded="true" signature="12399:12447" ph="..." />
+                <marker date="1516442872468" expanded="true" signature="12536:12584" ph="..." />
               </folding>
             </state>
           </provider>
@@ -47,11 +43,21 @@
       <file leaf-file-name="bodyNav.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bodyNav.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            <state relative-caret-position="305">
+              <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="topNav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/topNav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,23 +65,22 @@
       <file leaf-file-name="bodyTab.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/bodyTab.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="575">
-              <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+            <state relative-caret-position="3567">
+              <caret line="145" column="33" lean-forward="false" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
-                <element signature="e#5123#8581#0" expanded="false" />
-                <element signature="e#8636#9519#0" expanded="false" />
-                <marker date="1516440966324" expanded="true" signature="3408:3416" ph="&amp;##x1006;" />
+                <element signature="e#8696#9579#0" expanded="false" />
+                <marker date="1516441878439" expanded="true" signature="3468:3476" ph="&amp;##x1006;" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="leftNav.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/leftNav.js">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            <state relative-caret-position="273">
+              <caret line="697" column="0" lean-forward="false" selection-start-line="697" selection-start-column="0" selection-end-line="697" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -95,30 +100,18 @@
         <entry file="file://$PROJECT_DIR$/json/navs.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="267">
-              <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+              <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/page/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="591">
-              <caret line="163" column="49" lean-forward="true" selection-start-line="163" selection-start-column="49" selection-end-line="163" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="30" />
-              <folding>
-                <element signature="n#ul#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="226">
+              <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,13 +123,19 @@
       <find>navBar</find>
       <find>top_nav</find>
       <find>logo</find>
-      <find>topN</find>
       <find>closeBox</find>
       <find>top_menu</find>
       <find>showNotice</find>
       <find>menu</find>
       <find>nav</find>
       <find>tabFilter</find>
+      <find>layui-this</find>
+      <find>hide</find>
+      <find>tab_menu</find>
+      <find>topN</find>
+      <find>layui-main</find>
+      <find>topNa</find>
+      <find>hideMenu</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -150,14 +149,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
-        <option value="$PROJECT_DIR$/js/topNav.js" />
         <option value="$PROJECT_DIR$/js/leftNav.js" />
-        <option value="$PROJECT_DIR$/js/index.js" />
-        <option value="$PROJECT_DIR$/js/bodyNav.js" />
-        <option value="$PROJECT_DIR$/js/bodyTab.js" />
         <option value="$PROJECT_DIR$/json/navs.json" />
+        <option value="$PROJECT_DIR$/js/bodyTab.js" />
+        <option value="$PROJECT_DIR$/js/bodyNav.js" />
+        <option value="$PROJECT_DIR$/js/index.js" />
+        <option value="$PROJECT_DIR$/js/topNav.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -205,33 +204,7 @@
             <path>
               <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
               <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
-              <item name="json" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="layuiCMS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layuiCMS" type="462c0819:PsiDirectoryNode" />
-              <item name="page" type="462c0819:PsiDirectoryNode" />
-              <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -359,16 +332,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1516415742596</updated>
-      <workItem from="1516415743986" duration="16145000" />
+      <workItem from="1516415743986" duration="18750000" />
     </task>
+    <task id="LOCAL-00001" summary="ddddd">
+      <created>1516443724782</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1516443724782</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16145000" />
+    <option name="totallyTimeSpent" value="18750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -403,6 +383,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ddddd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ddddd" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -574,88 +558,85 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
+    <entry file="file://$PROJECT_DIR$/json/navs.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="742" column="0" lean-forward="true" selection-start-line="742" selection-start-column="0" selection-end-line="742" selection-end-column="0" />
+        <state relative-caret-position="267">
+          <caret line="60" column="3" lean-forward="false" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/topNav.js">
+    <entry file="file://$PROJECT_DIR$/js/leftNav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="129">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="62" column="30" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="30" />
-          <folding>
-            <element signature="n#ul#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
-          <caret line="145" column="4" lean-forward="false" selection-start-line="145" selection-start-column="7" selection-end-line="146" selection-end-column="20" />
+        <state relative-caret-position="315">
+          <caret line="139" column="24" lean-forward="false" selection-start-line="139" selection-start-column="24" selection-end-line="139" selection-end-column="24" />
           <folding>
             <element signature="e#951#5076#0" expanded="false" />
-            <element signature="e#7638#8695#0" expanded="false" />
-            <element signature="e#8903#8923#0" expanded="false" />
-            <element signature="e#8990#10112#0" expanded="false" />
-            <element signature="e#10158#10566#0" expanded="false" />
-            <element signature="e#10620#11708#0" expanded="false" />
-            <element signature="e#11759#12137#0" expanded="false" />
+            <element signature="e#7659#8716#0" expanded="false" />
+            <element signature="e#8924#8944#0" expanded="false" />
+            <element signature="e#9011#10133#0" expanded="false" />
+            <element signature="e#10179#10587#0" expanded="false" />
+            <element signature="e#10641#11729#0" expanded="false" />
+            <element signature="e#11780#12158#0" expanded="false" />
             <element signature="n#!!block;n#donation#0" expanded="false" />
-            <marker date="1516437985430" expanded="true" signature="7874:7980" ph="..." />
-            <marker date="1516437985430" expanded="true" signature="9545:9553" ph="&amp;##x1006;" />
-            <marker date="1516437985430" expanded="true" signature="12378:12426" ph="..." />
-            <marker date="1516437985430" expanded="true" signature="12515:12563" ph="..." />
+            <marker date="1516442872468" expanded="true" signature="7895:8001" ph="..." />
+            <marker date="1516442872468" expanded="true" signature="9566:9574" ph="&amp;##x1006;" />
+            <marker date="1516442872468" expanded="true" signature="12399:12447" ph="..." />
+            <marker date="1516442872468" expanded="true" signature="12536:12584" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bodyTab.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="32" column="14" lean-forward="false" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+        <state relative-caret-position="3567">
+          <caret line="145" column="33" lean-forward="false" selection-start-line="145" selection-start-column="33" selection-end-line="145" selection-end-column="33" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
-            <element signature="e#5123#8581#0" expanded="false" />
-            <element signature="e#8636#9519#0" expanded="false" />
-            <marker date="1516440966324" expanded="true" signature="3408:3416" ph="&amp;##x1006;" />
+            <element signature="e#8696#9579#0" expanded="false" />
+            <marker date="1516441878439" expanded="true" signature="3468:3476" ph="&amp;##x1006;" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/json/navs.json">
+    <entry file="file://$PROJECT_DIR$/js/topNav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="60" column="3" lean-forward="true" selection-start-line="60" selection-start-column="3" selection-end-line="60" selection-end-column="3" />
+        <state relative-caret-position="216">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/bodyNav.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        <state relative-caret-position="305">
+          <caret line="24" column="38" lean-forward="false" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/leftNav.js">
+    <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        <state relative-caret-position="273">
+          <caret line="697" column="0" lean-forward="false" selection-start-line="697" selection-start-column="0" selection-end-line="697" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
           <folding />
         </state>
       </provider>
