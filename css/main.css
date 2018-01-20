@@ -133,10 +133,15 @@
     background: none
 }
 .topNav{
+    position: absolute;
+    top:0;
+    left: 230px;
     background: none
 }
 .topMenu.layui-nav .layui-this:after, .topNav.layui-nav .layui-this:after {
-    width: 0px;
+    /*width: 0px;*/
+    top:60px !important;
+    background-color: #a9f6be;
 }
 
 
@@ -694,7 +699,9 @@
     .hideMenu {
         display: none;
     }
-
+    .topNav{
+        left:150px;
+    }
     /*左侧导航*/
     .layui-layout-admin .layui-side {
         left: -260px;

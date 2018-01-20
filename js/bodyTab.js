@@ -22,6 +22,7 @@ layui.define(["element", "jquery"], function (exports) {
     Tab.prototype.render = function (data) {
         if (data == undefined) {
             var title = $(".topNav a[class=loadChild]").first().find('cite').text();
+            $(".topNav li").first().addClass("layui-this");
             data = nav.getChildren(title);
         }
         if (data != undefined && data.length > 0) {

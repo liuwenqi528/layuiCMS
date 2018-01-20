@@ -137,6 +137,7 @@ layui.config({
 
 	//隐藏左侧导航
 	$(".hideMenu").click(function(){
+		console.info("ss")
 		$(".layui-layout-admin").toggleClass("showMenu");
 		//渲染顶部窗口
 		tab.tabMove();

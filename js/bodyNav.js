@@ -39,18 +39,20 @@ layui.define(["element", "jquery"], function (exports) {
         //通过title获取children
         Nav.prototype.getChildren = function (title) {
             var children;
+
             function getChild(data, title) {
                 if (data != undefined && data.length > 0) {
                     for (var i = 0; i < data.length; i++) {
                         if (data[i].title == title) {
                             children = data[i].children;
-                            return ;
+                            return;
                         } else {
                             getChild(data[i].children, title)
                         }
                     }
                 }
             }
+
             getChild(navData, title);
             return children;
         }
